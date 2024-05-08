@@ -17,7 +17,7 @@ Nextを押します。
 
 特に変更せずNextを押します。
 
-![2.png](../ScreenShots/GItInstall/2.png)
+![2.png](../ScreenShots/GitInstall/2.png)
 
 特に変更せずNextを押します。
 
